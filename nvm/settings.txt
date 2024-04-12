@@ -1,0 +1,2 @@
+root: C:\Ninja_Evo_V1\evo.ninja\nvm
+path: C:\Program Files\nodejs
